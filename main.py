@@ -62,7 +62,7 @@ def display_form_inputs():
             <input type="radio" name="coffee-size" value="med" />
         </label>
         <label>Large
-            <input type="radio" name="coffee-sizes" value="lg" />
+            <input type="radio" name="coffee-size" value="lg" />
         </label>
         <br>
         <label>Your life story
