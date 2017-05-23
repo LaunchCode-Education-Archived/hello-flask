@@ -1,6 +1,6 @@
-<!doctype html>
-<html>
-<body>
+{% extends "base.html" %}
+
+{% block content %}
     <h1>TODOs</h1>
     <form method='post'>
         <label>
@@ -23,5 +23,4 @@
         </ul>
 
     {% endif %}
-</body>
-</html>
+{% endblock %}
